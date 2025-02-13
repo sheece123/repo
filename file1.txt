@@ -1,2 +1,2 @@
-This is File 1, changs
-changes doing from develop branch
+This is File 1, changes
+changes doing from develop branch....
